@@ -4,7 +4,7 @@ I am **Onwuemene Joshua**, a frontend developer, a technical writer and a WordPr
 
 I love working with the developer and technical writing communities globally, building cool projects, writing technical articles for companies and networking.
 
-Programming Language: HTML, CSS, JAVASCRIPT, PYTHON.
+Programming Language: HTML, CSS, JAVASCRIPT and PYTHON.
 
 Framework and Libraries: [Sass](https://sass-lang.com/documentation/), [Tailwind CSS](https://tailwindcss.com/docs/installation)
 

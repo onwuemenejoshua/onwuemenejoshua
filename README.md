@@ -6,9 +6,9 @@ I love working with the developer and technical writing communities globally, bu
 
 Programming Language: HTML, CSS, JAVASCRIPT, PYTHON.
 
-Framework and Libraries: [SASS](https://sass-lang.com/documentation/), [TAILWINDCSS](https://tailwindcss.com/docs/installation)
+Framework and Libraries: [Sass](https://sass-lang.com/documentation/), [Tailwind CSS](https://tailwindcss.com/docs/installation)
 
-- 🌱 I’m currently learning [REACTJS](https://react.dev/)
+- 🌱 I’m currently learning [ReactJS](https://react.dev/)
 
 To give back to my communities, I publish technical content on [dev.to](https://dev.to/onwuemene), [Hashnode](https://hashnode.com/@JoshDevv) and also [Turing](https://www.turing.com/).
 

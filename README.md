@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I am **Onwuemene Joshua**, a frontend developer, a technical writer and a WordPress developer who loves learning, building, networking and solving problems⚡.
+I am **Onwuemene Joshua**, a frontend Developer, a technical writer and a WordPress developer who loves learning, building, networking and solving problems⚡.
 
 I love working with the developer and technical writing communities globally, building cool projects, writing technical articles for companies and networking.
 
-Programming Language: HTML, CSS, JAVASCRIPT and PYTHON.
-
-Framework and Libraries: [Sass](https://sass-lang.com/documentation/), [Tailwind CSS](https://tailwindcss.com/docs/installation)
+Key Skills and Tools: HTML, CSS, JAVASCRIPT, PYTHON, [Sass](https://sass-lang.com/documentation/), [Tailwind CSS](https://tailwindcss.com/docs/installation), [Git](https://git-scm.com/doc)
 
 - 🌱 I’m currently learning [ReactJS](https://react.dev/)
 

@@ -4,7 +4,7 @@ I am **Onwuemene Joshua**, a frontend Developer, a technical writer and a WordPr
 
 I love working with the developer and technical writing communities globally, building cool projects, writing technical articles for companies and networking.
 
-Key Skills and Tools: HTML, CSS, JAVASCRIPT, PYTHON, [Sass](https://sass-lang.com/documentation/), [Tailwind CSS](https://tailwindcss.com/docs/installation), [Git](https://git-scm.com/doc)
+Key Skills and Tools: HTML, CSS, JAVASCRIPT, PYTHON, [Sass](https://sass-lang.com/documentation/), [Tailwind CSS](https://tailwindcss.com/docs/installation), [Git](https://git-scm.com/doc).
 
 - 🌱 I’m currently learning [ReactJS](https://react.dev/)
 

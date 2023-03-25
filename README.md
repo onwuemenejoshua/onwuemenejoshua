@@ -10,7 +10,7 @@ Framework and Libraries: [SASS](https://sass-lang.com/documentation/), [TAILWIND
 
 - 🌱 I’m currently learning [REACTJS](https://react.dev/)
 
-To give back to my communities, I publish technical content on [dev.to](https://dev.to/onwuemene), [Hashnode](https://hashnode.com/@JoshDevv) and I also write for [Turing](https://www.turing.com/).
+To give back to my communities, I publish technical content on [dev.to](https://dev.to/onwuemene), [Hashnode](https://hashnode.com/@JoshDevv) and also [Turing](https://www.turing.com/).
 
 You can connect with me on [Twitter](https://twitter.com/onwuemenejosh) and [LinkedIn](https://www.linkedin.com/in/joshua-onwuemene/)
 

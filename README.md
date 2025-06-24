@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 
 I am a **Technical Writer** who turns complex product features and APIs into clear, user-friendly documentation. I collaborate with developers, product teams, and startups to create well-structured, accessible docs that support both new and experienced users.
 
-## What I Do
+### 🛠️ What I Do
 
 - **API Documentation**
   
@@ -13,9 +13,7 @@ I am a **Technical Writer** who turns complex product features and APIs into cle
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-onwuemene/)
 
-I am open to **Job opportunities, internship roles and Open source contribution**
-
-You can reach me via email at onwuemenjoshua@gmail.com
+I am open to **Job opportunities, internship roles and Open source contribution**, and you can reach me via email at onwuemenjoshua@gmail.com
 
 
 <!--

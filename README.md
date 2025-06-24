@@ -1,20 +1,21 @@
 ### Hi there 👋
 
-I am **Onwuemene Joshua**, a frontend Developer, a technical writer and a WordPress developer who loves learning, building, networking and solving problems⚡.
 
-I love working with the developers and technical writing communities globally, building cool projects, writing technical articles for companies and networking.
+I am a **Technical Writer** who turns complex product features and APIs into clear, user-friendly documentation. I collaborate with developers, product teams, and startups to create well-structured, accessible docs that support both new and experienced users.
 
-Key Skills and Tools: HTML, CSS, JAVASCRIPT, PYTHON, [Sass](https://sass-lang.com/documentation/), [Tailwind CSS](https://tailwindcss.com/docs/installation), [Git](https://git-scm.com/doc).
+## What I Do
 
-- 🌱 I’m currently learning [ReactJS](https://react.dev/)
+- **API Documentation**
+  
+- **Product Documentation**
+  
+- **Developer-Focused Content**
 
-To give back to my communities, I publish technical content on [dev.to](https://dev.to/onwuemene), [Hashnode](https://hashnode.com/@JoshDevv) and also [Turing](https://www.turing.com/).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-onwuemene/)
 
-You can connect with me on [Twitter](https://twitter.com/onwuemenejosh) and [LinkedIn](https://www.linkedin.com/in/joshua-onwuemene/)
+I am open to **Job opportunities, internship roles and Open source contribution**
 
-I am open for **Internship roles!**
-
-You can reach me via my mail on onwuemenjoshua@gmail.com
+You can reach me via email at onwuemenjoshua@gmail.com
 
 
 <!--
